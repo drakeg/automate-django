@@ -6,7 +6,7 @@ connects to urls.py, views.py, template files, css and runs the django server an
 
 ## steps for installing on mac, linux and windows:
 
-### note: needs django=2.1 for running this script and python version 3 up
+### note: needs for running this script and python version 3 up
 
 **install python3,
 
